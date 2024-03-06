@@ -109,7 +109,7 @@ namespace CChavezDepreciationForm
                 Calc();
             }
         }
-        public int Lifetime
+        public double Lifetime
         {
             get
             {
